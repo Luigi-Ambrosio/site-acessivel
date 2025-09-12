@@ -3,8 +3,8 @@
 
 :root {
     --laranja-claro: #dd6d39;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-fundo: #ffffff;
+    --alto-contraste-texto: #000000;
     --alto-contraste-link: #ffffff;
 }
 
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 .menu-acessibilidade{
     position: fixed;
