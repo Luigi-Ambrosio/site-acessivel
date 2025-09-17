@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #ffffff;
+    background-color: (--alto-contraste-fundo);
     border: none;
     font-weight: bold;
 }
@@ -166,8 +166,8 @@ h2 {
 }
 
 .alto-contraste{
-    background-color: #000000;
-    color: var(#ffffff);
+    background-color: (var(--alto-contraste-fundo));
+    color: var(--alto-contraste-texto);
 }
 
 .alto-contraste header,
