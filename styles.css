@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #000000;
+    background-color: #fffdfd;
 }
 
 
@@ -100,6 +100,7 @@ h2 {
     font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
+    
 }
 
 #galeria {
