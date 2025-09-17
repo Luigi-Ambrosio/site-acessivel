@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #000000;
+    color: (--laranja-claro);
     font-weight: 600;
 }
 
