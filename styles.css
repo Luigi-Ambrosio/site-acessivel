@@ -166,8 +166,8 @@ h2 {
 }
 
 .alto-contraste{
-    background-color: #ffffff;
-    color: var(--alto-contraste-texto);
+    background-color: #000000;
+    color: var(#ffffff);
 }
 
 .alto-contraste header,
