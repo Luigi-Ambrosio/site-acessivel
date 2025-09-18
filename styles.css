@@ -109,11 +109,6 @@ h2 {
 
 }
 
-.fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
-}
-
 #contato {
     background-image: url(img/spot-lights-fundo-estudio-preto_762785-156334.avif);
     background-size: cover;
