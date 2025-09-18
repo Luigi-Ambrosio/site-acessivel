@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #fffdfd;
+    background-color: var(--alto-contraste-texto);
 }
 
 
